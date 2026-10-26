@@ -1,0 +1,8 @@
+.quarto/
+.Rhistory
+.Rproj.user/
+.DS_Store
+.privacy_denylist
+
+/.quarto/
+**/*.quarto_ipynb
