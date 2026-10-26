@@ -1,0 +1,67 @@
+---
+title: "Economics at GSMA Intelligence"
+subtitle: "What does it mean to be an economist at GSMA Intelligence?"
+toc: true
+---
+
+::: {.page-intro}
+Welcome, Isaac. This site is your guide for the week. It explains who we are and what economists do here, sets out each day, and collects the books, essays and data we would recommend to anyone starting an economics degree. Everything here is optional reading. Follow what interests you.
+:::
+
+## Who we are
+
+The [GSMA](https://www.gsma.com/) is the global organisation of the mobile industry. It brings together mobile operators and companies across the wider technology ecosystem, and it speaks for the industry in discussions with governments and regulators.
+
+[GSMA Intelligence](https://www.gsmaintelligence.com/) is the research arm of the GSMA. It produces data, forecasts and analysis on mobile operators, networks and consumers in every country. The economics team sits inside GSMA Intelligence. Our job is to measure what mobile technology contributes to economies and societies, and to explain what policy choices help or hinder that contribution.
+
+## What we do
+
+Economists at GSMA Intelligence spend their time on a few kinds of work.
+
+- **Sizing the mobile economy.** How much does the mobile industry add to GDP, jobs and public finances, directly and through the businesses that depend on it? The flagship output is the [Mobile Economy](https://www.gsmaintelligence.com/series/the-mobile-economy) report series, published for the world and for each region.
+- **Forecasting.** How many people will use mobile internet in five or ten years? How quickly will new technologies such as 5G spread? Forecasts mix data, economic models and judgement.
+- **Impact studies.** What happens to productivity, incomes or inclusion when a country gets better connectivity? These studies use econometrics, the statistical toolkit you will meet at university.
+- **Policy analysis.** What happens if a government changes a tax, the way it assigns spectrum, or the rules on competition? This is where economics meets real decisions.
+
+## The policy topics we work on
+
+The mobile economy touches many classic questions in economics. These are the ones you will hear about most this week.
+
+### Competition
+
+How many mobile operators should a market have? Too few, and prices may rise and quality may fall. Too many, and none may earn enough to invest in better networks. Economists study mergers, market structure and investment to help regulators find the balance. This is the field of *industrial organisation*.
+
+### Taxation
+
+Mobile services are often taxed more heavily than other goods, through sector-specific taxes on handsets, airtime or mobile money. Higher taxes raise government revenue today, but they can also make connectivity less affordable and slow the growth that would raise future revenue. Weighing the two is a classic public finance problem.
+
+### Spectrum
+
+Mobile networks send signals over radio frequencies called spectrum. Governments own it and assign it to operators, often through auctions. How much spectrum is released, when, and at what price shapes the coverage, speed and cost of mobile services for years. Spectrum auctions are one of the great practical successes of game theory.
+
+### Development and inclusion
+
+Billions of people live within reach of a mobile broadband network but do not use mobile internet. Economists call this the *usage gap*, and it is larger than the *coverage gap* of people with no network at all. The reasons include the cost of handsets, digital skills and relevant content. GSMA research such as the [State of Mobile Internet Connectivity](https://www.gsma.com/somic/) and the [Mobile Gender Gap](https://www.gsma.com/gender-gap/) reports tracks these gaps and what closes them.
+
+## How our work reaches policy
+
+Research matters when it changes a decision. The path usually looks like this.
+
+```{mermaid}
+flowchart LR
+  A["A policy question"] --> B["Data"]
+  B --> C["An economic model"]
+  C --> D["A report with evidence"]
+  D --> E["Dialogue with governments and regulators"]
+```
+
+A typical question might be: *what would happen to connectivity and growth if a country cut its tax on mobile handsets?* The economist gathers data, builds a model of how prices, adoption and the wider economy respond, and writes up the results so that a minister, a regulator or a journalist can follow them. The model must be sound, but the explanation matters just as much. A finding nobody understands changes nothing.
+
+## What makes a good economist here
+
+- **Curiosity about how things work.** Why is mobile data cheap in one country and expensive in the next?
+- **Comfort with data.** Most days involve spreadsheets, code or charts.
+- **Clear writing.** Our readers are busy and rarely economists.
+- **Honesty about uncertainty.** A forecast is a range, not a promise.
+
+Over the week you will see each of these in practice.

@@ -1,0 +1,70 @@
+
+## Harry {.contributor}
+
+[Economist, GSMA Intelligence. Your host for the week.]{.role}
+
+### My favourite economists
+
+I have two, and I like them together because they pull in opposite directions.
+
+**John von Neumann (1903–1957).** Born in Budapest, von Neumann was a mathematician who changed several fields at once. In economics he did three things that still shape the subject.
+
+- **Game theory.** His 1928 paper proved the *minimax theorem* for two-player games, and in 1944 he wrote *Theory of Games and Economic Behavior* with Oskar Morgenstern. Game theory is now how economists think about strategy: firms competing, governments negotiating, and bidders in the spectrum auctions you will hear about this week.
+- **Expected utility.** With Morgenstern he gave a precise way to describe choices under risk. It is still the starting point for how economics models decisions when the future is uncertain.
+- **A model of growth.** His 1937 model of an expanding economy showed how output, prices and interest rates fit together on a balanced growth path. It was one of the first uses of advanced mathematics to answer a big economic question.
+
+He also helped design the modern computer. The *von Neumann architecture*, where a computer stores its program in memory alongside its data, is inside almost every device you own, including your phone. For someone who works on the economics of digital technology, that is hard to beat.
+
+[Biography at MacTutor (University of St Andrews)](https://mathshistory.st-andrews.ac.uk/Biographies/Von_Neumann/)
+
+**Friedrich Hayek (1899–1992).** Born in Vienna, Hayek taught at the London School of Economics and later in Chicago and Freiburg. He shared the Nobel Prize in economics in 1974.
+
+- **Prices carry knowledge.** In his 1945 essay ["The Use of Knowledge in Society"](https://www.econlib.org/library/Essays/hykKnw.html), Hayek argued that the knowledge an economy needs is scattered across millions of people, and no planner could ever collect it. Prices solve the problem: they pass on, in a single number, what people need to know to adjust. It is one of the most important short essays in economics, and you can read it in an afternoon.
+- **Spontaneous order.** Many of the institutions that work best, such as markets, language and common law, were not designed by anyone. They grew out of people's actions.
+- **Money and business cycles.** In the 1930s he debated John Maynard Keynes on what causes booms and slumps, one of the great arguments in the history of the subject.
+
+Von Neumann shows how far careful calculation can take you. Hayek reminds you of what no calculation can know. A good economist keeps both in mind.
+
+[Hayek at the Nobel Prize website](https://www.nobelprize.org/prizes/economic-sciences/1974/hayek/facts/)
+
+### Books I recommend
+
+- **[*The Undercover Economist*](https://timharford.com/books/undercover/), Tim Harford.** Why your coffee costs what it does, why supermarkets are laid out the way they are, and why some countries are poor. The best introduction I know to thinking like an economist about everyday life.
+- **[*How to Make the World Add Up*](https://timharford.com/books/worldaddup/), Tim Harford.** Ten rules for thinking about numbers and statistics, and for noticing when your own feelings are fooling you. Published in the United States as *The Data Detective*. Essential for anyone who will work with data, which means every economist.
+
+### Articles, podcasts and websites
+
+- **["How I Work"](https://www3.nccu.edu.tw/~jthuang/krugman.html), Paul Krugman.** A Nobel laureate explains how he finds ideas, in four rules: listen to the Gentiles, question the question, dare to be silly, and simplify, simplify. Read it before your first essay at university.
+- **[*More or Less*](https://www.bbc.co.uk/programmes/p02nrss1), BBC Radio 4.** Tim Harford and the team check the numbers in the news. Short, funny and sharp.
+- **[*Cautionary Tales*](https://timharford.com/articles/cautionarytales/), Tim Harford.** Stories of things going wrong, and what they teach us about how people decide.
+- **[Our World in Data](https://ourworldindata.org/).** Free charts and data on almost every topic in development and economics, with the sources explained.
+- **[*The Economy*, by CORE](https://www.core-econ.org/).** A free, modern introductory economics course. A gentle way to get ahead before term starts.
+
+### A focus on economic growth
+
+If I had to pick one topic for a new economics student, it would be growth. Why are some countries rich and others poor, and what makes an economy grow? Robert Lucas put it this way: once you start to think about these questions, "it is hard to think about anything else."
+
+Start with [chapter 6 of *Measuring the Economy*](https://measuringtheeconomy.uk/book/text/06.html), a clear, free guide to how economic growth is defined and measured. Then keep five ideas in mind.
+
+- **Productivity.** How much output we get from each hour of work. Paul Krugman wrote that "productivity isn't everything, but in the long run it is almost everything." Over decades, it is what decides living standards.
+- **Innovation.** New ideas are different from machines: one person using an idea does not stop another from using it. Paul Romer showed how this makes ideas the engine of long-run growth, and won the [2018 Nobel Prize](https://www.nobelprize.org/prizes/economic-sciences/2018/romer/facts/) for it.
+- **Technology.** Robert Solow's model showed that adding machines alone cannot keep an economy growing: technology has to improve. He also joked in 1987 that "you can see the computer age everywhere but in the productivity statistics." Whether mobile and AI will show up in the statistics is a question we work on every day.
+- **Development.** Growth is not only about GDP. It is about health, education, institutions and the freedom to choose. The [2024 Nobel Prize](https://www.nobelprize.org/prizes/economic-sciences/2024/summary/) went to Daron Acemoglu, Simon Johnson and James Robinson for showing how institutions shape which countries prosper.
+- **Inequality.** Growth can be shared widely or narrowly. Who gains from new technology, and who is left behind, matters as much as how fast the total grows. [Our World in Data on inequality](https://ourworldindata.org/economic-inequality) is a good place to start.
+
+For the classic papers, all of which you will meet at university:
+
+- Robert Solow (1956), ["A Contribution to the Theory of Economic Growth"](https://doi.org/10.2307/1884513). The model every growth course starts with.
+- Robert Lucas (1988), ["On the Mechanics of Economic Development"](https://doi.org/10.1016/0304-3932(88)90168-7). Where the quote above comes from, and a classic on human capital.
+- Paul Romer (1990), ["Endogenous Technological Change"](https://doi.org/10.1086/261725). Ideas as the engine of growth.
+- Robert Barro (1991), ["Economic Growth in a Cross Section of Countries"](https://doi.org/10.2307/2937943). What the data say about why some countries grow faster.
+- Gregory Mankiw, David Romer and David Weil (1992), ["A Contribution to the Empirics of Economic Growth"](https://doi.org/10.2307/2118477). Taking the Solow model to the data. Mankiw also writes one of the most widely used economics textbooks and has a long-running [blog](https://gregmankiw.blogspot.com/).
+
+### The best of being an economist working on digital technologies
+
+The questions are new. When a technology changes how people work, shop and learn, nobody yet knows what it is worth or who will gain. You get to work on questions that have no answer in the textbook yet.
+
+The work reaches real lives. A change in a tax or in the way spectrum is assigned can decide whether millions of people can afford to get online. It is rare to see the link between an economic model and people's lives so clearly.
+
+And the tools change the job itself. Digital technology is not only what I study. It is how I study it. AI now helps me find sources, clean data and write code, which leaves more time for the part that matters most: thinking about whether the answer is right.
+

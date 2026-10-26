@@ -1,0 +1,13 @@
+---
+title: "Economic resources"
+subtitle: "What economists at GSMA Intelligence would recommend to a new economics student"
+toc: true
+toc-depth: 3
+toc-expand: true
+---
+
+::: {.page-intro}
+We asked economists in the team the same questions. Who is your favourite economist, and why? Which books would you recommend? Which articles, podcasts and websites? And what is the best part of being an economist working on digital technologies? Their answers are below, one person at a time. More will appear during the week.
+:::
+
+{{< include contributors/_harry.qmd >}}

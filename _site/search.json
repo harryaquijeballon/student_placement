@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Public data to explore",
+    "section": "",
+    "text": "Economics starts with a question and a dataset. All of these are free and public. Pick one, try the question, and see where it leads."
+  },
+  {
+    "objectID": "data.html#the-economy",
+    "href": "data.html#the-economy",
+    "title": "Public data to explore",
+    "section": "The economy",
+    "text": "The economy\n\nWorld Bank: World Development Indicators. Hundreds of indicators for every country, from GDP to mobile subscriptions. Try this: chart GDP per person against mobile cellular subscriptions per 100 people for three countries since 2000.\nIMF DataMapper. Growth, inflation and debt for every country, with forecasts. Try this: which countries does the IMF expect to grow fastest over the next five years?\nPenn World Table. The standard dataset for comparing productivity and living standards across countries. Try this: compare output per worker in the UK and South Korea in 1960 and today.\nOffice for National Statistics. Official statistics for the UK. Try this: how has UK labour productivity changed since 2008?"
+  },
+  {
+    "objectID": "data.html#connectivity",
+    "href": "data.html#connectivity",
+    "title": "Public data to explore",
+    "section": "Connectivity",
+    "text": "Connectivity\n\nITU DataHub. Official statistics on internet use, mobile coverage and prices from the United Nations agency for digital technologies. Try this: what share of people use the internet in the richest and the poorest countries?\nGSMA Mobile Economy reports. Our own public reports on the mobile industry, worldwide and by region. Try this: pick a region and find the three facts you think matter most.\nGSMA State of Mobile Internet Connectivity. The coverage gap and usage gap, and what stands in the way of getting online. Try this: what are the main reasons people give for not using mobile internet?"
+  },
+  {
+    "objectID": "data.html#charts-with-the-story-explained",
+    "href": "data.html#charts-with-the-story-explained",
+    "title": "Public data to explore",
+    "section": "Charts with the story explained",
+    "text": "Charts with the story explained\n\nOur World in Data: economic growth. Long-run growth, explained with charts. Try this: find a country that was poorer than the UK in 1950 and richer today.\nOur World in Data: internet. How quickly the world got online. Try this: how many years did it take for half the world to use the internet?"
+  },
+  {
+    "objectID": "data.html#a-tip-on-using-data-well",
+    "href": "data.html#a-tip-on-using-data-well",
+    "title": "Public data to explore",
+    "section": "A tip on using data well",
+    "text": "A tip on using data well\nBefore you trust a number, ask three questions. Where does it come from? What exactly does it measure? What would it look like if it were wrong? Tim Harford’s How to Make the World Add Up has ten rules like these."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Economic resources",
+    "section": "",
+    "text": "We asked economists in the team the same questions. Who is your favourite economist, and why? Which books would you recommend? Which articles, podcasts and websites? And what is the best part of being an economist working on digital technologies? Their answers are below, one person at a time. More will appear during the week."
+  },
+  {
+    "objectID": "resources.html#harry",
+    "href": "resources.html#harry",
+    "title": "Economic resources",
+    "section": "Harry",
+    "text": "Harry\nEconomist, GSMA Intelligence. Your host for the week.\n\nMy favourite economists\nI have two, and I like them together because they pull in opposite directions.\nJohn von Neumann (1903–1957). Born in Budapest, von Neumann was a mathematician who changed several fields at once. In economics he did three things that still shape the subject.\n\nGame theory. His 1928 paper proved the minimax theorem for two-player games, and in 1944 he wrote Theory of Games and Economic Behavior with Oskar Morgenstern. Game theory is now how economists think about strategy: firms competing, governments negotiating, and bidders in the spectrum auctions you will hear about this week.\nExpected utility. With Morgenstern he gave a precise way to describe choices under risk. It is still the starting point for how economics models decisions when the future is uncertain.\nA model of growth. His 1937 model of an expanding economy showed how output, prices and interest rates fit together on a balanced growth path. It was one of the first uses of advanced mathematics to answer a big economic question.\n\nHe also helped design the modern computer. The von Neumann architecture, where a computer stores its program in memory alongside its data, is inside almost every device you own, including your phone. For someone who works on the economics of digital technology, that is hard to beat.\nBiography at MacTutor (University of St Andrews)\nFriedrich Hayek (1899–1992). Born in Vienna, Hayek taught at the London School of Economics and later in Chicago and Freiburg. He shared the Nobel Prize in economics in 1974.\n\nPrices carry knowledge. In his 1945 essay “The Use of Knowledge in Society”, Hayek argued that the knowledge an economy needs is scattered across millions of people, and no planner could ever collect it. Prices solve the problem: they pass on, in a single number, what people need to know to adjust. It is one of the most important short essays in economics, and you can read it in an afternoon.\nSpontaneous order. Many of the institutions that work best, such as markets, language and common law, were not designed by anyone. They grew out of people’s actions.\nMoney and business cycles. In the 1930s he debated John Maynard Keynes on what causes booms and slumps, one of the great arguments in the history of the subject.\n\nVon Neumann shows how far careful calculation can take you. Hayek reminds you of what no calculation can know. A good economist keeps both in mind.\nHayek at the Nobel Prize website\n\n\nBooks I recommend\n\nThe Undercover Economist, Tim Harford. Why your coffee costs what it does, why supermarkets are laid out the way they are, and why some countries are poor. The best introduction I know to thinking like an economist about everyday life.\nHow to Make the World Add Up, Tim Harford. Ten rules for thinking about numbers and statistics, and for noticing when your own feelings are fooling you. Published in the United States as The Data Detective. Essential for anyone who will work with data, which means every economist.\n\n\n\nArticles, podcasts and websites\n\n“How I Work”, Paul Krugman. A Nobel laureate explains how he finds ideas, in four rules: listen to the Gentiles, question the question, dare to be silly, and simplify, simplify. Read it before your first essay at university.\nMore or Less, BBC Radio 4. Tim Harford and the team check the numbers in the news. Short, funny and sharp.\nCautionary Tales, Tim Harford. Stories of things going wrong, and what they teach us about how people decide.\nOur World in Data. Free charts and data on almost every topic in development and economics, with the sources explained.\nThe Economy, by CORE. A free, modern introductory economics course. A gentle way to get ahead before term starts.\n\n\n\nA focus on economic growth\nIf I had to pick one topic for a new economics student, it would be growth. Why are some countries rich and others poor, and what makes an economy grow? Robert Lucas put it this way: once you start to think about these questions, “it is hard to think about anything else.”\nStart with chapter 6 of Measuring the Economy, a clear, free guide to how economic growth is defined and measured. Then keep five ideas in mind.\n\nProductivity. How much output we get from each hour of work. Paul Krugman wrote that “productivity isn’t everything, but in the long run it is almost everything.” Over decades, it is what decides living standards.\nInnovation. New ideas are different from machines: one person using an idea does not stop another from using it. Paul Romer showed how this makes ideas the engine of long-run growth, and won the 2018 Nobel Prize for it.\nTechnology. Robert Solow’s model showed that adding machines alone cannot keep an economy growing: technology has to improve. He also joked in 1987 that “you can see the computer age everywhere but in the productivity statistics.” Whether mobile and AI will show up in the statistics is a question we work on every day.\nDevelopment. Growth is not only about GDP. It is about health, education, institutions and the freedom to choose. The 2024 Nobel Prize went to Daron Acemoglu, Simon Johnson and James Robinson for showing how institutions shape which countries prosper.\nInequality. Growth can be shared widely or narrowly. Who gains from new technology, and who is left behind, matters as much as how fast the total grows. Our World in Data on inequality is a good place to start.\n\nFor the classic papers, all of which you will meet at university:\n\nRobert Solow (1956), “A Contribution to the Theory of Economic Growth”. The model every growth course starts with.\nRobert Lucas (1988), “On the Mechanics of Economic Development”. Where the quote above comes from, and a classic on human capital.\nPaul Romer (1990), “Endogenous Technological Change”. Ideas as the engine of growth.\nRobert Barro (1991), “Economic Growth in a Cross Section of Countries”. What the data say about why some countries grow faster.\nGregory Mankiw, David Romer and David Weil (1992), “A Contribution to the Empirics of Economic Growth”. Taking the Solow model to the data. Mankiw also writes one of the most widely used economics textbooks and has a long-running blog.\n\n\n\nThe best of being an economist working on digital technologies\nThe questions are new. When a technology changes how people work, shop and learn, nobody yet knows what it is worth or who will gain. You get to work on questions that have no answer in the textbook yet.\nThe work reaches real lives. A change in a tax or in the way spectrum is assigned can decide whether millions of people can afford to get online. It is rare to see the link between an economic model and people’s lives so clearly.\nAnd the tools change the job itself. Digital technology is not only what I study. It is how I study it. AI now helps me find sources, clean data and write code, which leaves more time for the part that matters most: thinking about whether the answer is right."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Economics at GSMA Intelligence",
+    "section": "",
+    "text": "Welcome, Isaac. This site is your guide for the week. It explains who we are and what economists do here, sets out each day, and collects the books, essays and data we would recommend to anyone starting an economics degree. Everything here is optional reading. Follow what interests you."
+  },
+  {
+    "objectID": "index.html#who-we-are",
+    "href": "index.html#who-we-are",
+    "title": "Economics at GSMA Intelligence",
+    "section": "Who we are",
+    "text": "Who we are\nThe GSMA is the global organisation of the mobile industry. It brings together mobile operators and companies across the wider technology ecosystem, and it speaks for the industry in discussions with governments and regulators.\nGSMA Intelligence is the research arm of the GSMA. It produces data, forecasts and analysis on mobile operators, networks and consumers in every country. The economics team sits inside GSMA Intelligence. Our job is to measure what mobile technology contributes to economies and societies, and to explain what policy choices help or hinder that contribution."
+  },
+  {
+    "objectID": "index.html#what-we-do",
+    "href": "index.html#what-we-do",
+    "title": "Economics at GSMA Intelligence",
+    "section": "What we do",
+    "text": "What we do\nEconomists at GSMA Intelligence spend their time on a few kinds of work.\n\nSizing the mobile economy. How much does the mobile industry add to GDP, jobs and public finances, directly and through the businesses that depend on it? The flagship output is the Mobile Economy report series, published for the world and for each region.\nForecasting. How many people will use mobile internet in five or ten years? How quickly will new technologies such as 5G spread? Forecasts mix data, economic models and judgement.\nImpact studies. What happens to productivity, incomes or inclusion when a country gets better connectivity? These studies use econometrics, the statistical toolkit you will meet at university.\nPolicy analysis. What happens if a government changes a tax, the way it assigns spectrum, or the rules on competition? This is where economics meets real decisions."
+  },
+  {
+    "objectID": "index.html#the-policy-topics-we-work-on",
+    "href": "index.html#the-policy-topics-we-work-on",
+    "title": "Economics at GSMA Intelligence",
+    "section": "The policy topics we work on",
+    "text": "The policy topics we work on\nThe mobile economy touches many classic questions in economics. These are the ones you will hear about most this week.\n\nCompetition\nHow many mobile operators should a market have? Too few, and prices may rise and quality may fall. Too many, and none may earn enough to invest in better networks. Economists study mergers, market structure and investment to help regulators find the balance. This is the field of industrial organisation.\n\n\nTaxation\nMobile services are often taxed more heavily than other goods, through sector-specific taxes on handsets, airtime or mobile money. Higher taxes raise government revenue today, but they can also make connectivity less affordable and slow the growth that would raise future revenue. Weighing the two is a classic public finance problem.\n\n\nSpectrum\nMobile networks send signals over radio frequencies called spectrum. Governments own it and assign it to operators, often through auctions. How much spectrum is released, when, and at what price shapes the coverage, speed and cost of mobile services for years. Spectrum auctions are one of the great practical successes of game theory.\n\n\nDevelopment and inclusion\nBillions of people live within reach of a mobile broadband network but do not use mobile internet. Economists call this the usage gap, and it is larger than the coverage gap of people with no network at all. The reasons include the cost of handsets, digital skills and relevant content. GSMA research such as the State of Mobile Internet Connectivity and the Mobile Gender Gap reports tracks these gaps and what closes them."
+  },
+  {
+    "objectID": "index.html#how-our-work-reaches-policy",
+    "href": "index.html#how-our-work-reaches-policy",
+    "title": "Economics at GSMA Intelligence",
+    "section": "How our work reaches policy",
+    "text": "How our work reaches policy\nResearch matters when it changes a decision. The path usually looks like this.\n\n\n\n\n\nflowchart LR\n  A[\"A policy question\"] --&gt; B[\"Data\"]\n  B --&gt; C[\"An economic model\"]\n  C --&gt; D[\"A report with evidence\"]\n  D --&gt; E[\"Dialogue with governments and regulators\"]\n\n\n\n\n\n\nA typical question might be: what would happen to connectivity and growth if a country cut its tax on mobile handsets? The economist gathers data, builds a model of how prices, adoption and the wider economy respond, and writes up the results so that a minister, a regulator or a journalist can follow them. The model must be sound, but the explanation matters just as much. A finding nobody understands changes nothing."
+  },
+  {
+    "objectID": "index.html#what-makes-a-good-economist-here",
+    "href": "index.html#what-makes-a-good-economist-here",
+    "title": "Economics at GSMA Intelligence",
+    "section": "What makes a good economist here",
+    "text": "What makes a good economist here\n\nCuriosity about how things work. Why is mobile data cheap in one country and expensive in the next?\nComfort with data. Most days involve spreadsheets, code or charts.\nClear writing. Our readers are busy and rarely economists.\nHonesty about uncertainty. A forecast is a range, not a promise.\n\nOver the week you will see each of these in practice."
+  },
+  {
+    "objectID": "week.html",
+    "href": "week.html",
+    "title": "The week",
+    "section": "",
+    "text": "Each day has a theme, a rough timetable and a question to reflect on. The timetable is a guide, not a contract. If something catches your interest, stay with it. Days run from about 10:00 to 15:30, with lunch in the middle."
+  },
+  {
+    "objectID": "week.html#your-open-project",
+    "href": "week.html#your-open-project",
+    "title": "The week",
+    "section": "Your open project",
+    "text": "Your open project\nThrough the week you can, if you like, follow one question of your own. There is no required format and no deadline. It could be a short note, a chart, a few slides, or just a conversation. If you want to share it on Friday, there is a slot for that. If you would rather not, that is completely fine. The point is to learn as much as you wish.\nSome questions to start from, or to ignore:\n\nHow has mobile connectivity changed the economy of a country you know or would like to know?\nWhy is mobile data so much cheaper in some countries than in others?\nWho still does not use mobile internet, and what would change that?"
+  },
+  {
+    "objectID": "week.html#day-by-day",
+    "href": "week.html#day-by-day",
+    "title": "The week",
+    "section": "Day by day",
+    "text": "Day by day\n\nDay 1Day 2Day 3Day 4Day 5\n\n\nThe mobile economy\n\n\n\n\nTime\nActivity\n\n\n\n\n10:00\nWelcome, office tour and a coffee with Harry\n\n\n10:45\nRead the home page of this site; questions about GSMA and GSMA Intelligence\n\n\n11:30\nGuided tour of a public Mobile Economy report: how it is built, what each chart says\n\n\n12:30\nLunch\n\n\n13:00\nMeet some of the team. Ask each person what a normal day looks like for them\n\n\n14:00\nStart your own glossary: ten terms from today you did not know (the Glossary can help)\n\n\n14:45\nChoose an open-project question, if you want one\n\n\n15:15\nReflection and wrap-up\n\n\n\n\n\nReflect. What surprised you most about how big, or how small, the mobile industry is?\n\n\n\nGrowth and productivity\n\n\n\n\nTime\nActivity\n\n\n\n\n10:00\nRead chapter 6 of Measuring the Economy on economic growth\n\n\n11:00\nDiscussion with Harry: productivity, innovation and technology. Where does mobile fit?\n\n\n11:45\nHands-on: download GDP per person and mobile subscriptions for three countries from the World Bank and chart them\n\n\n12:30\nLunch\n\n\n13:00\nRead Paul Krugman’s “How I Work”\n\n\n14:00\nOpen project time\n\n\n15:15\nReflection and wrap-up\n\n\n\n\n\nReflect. Does a rise in mobile use cause growth, or does growth cause a rise in mobile use? How could you tell the difference?\n\n\n\nPolicy levers: spectrum, taxation and competition\n\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n10:00\nSpectrum in plain English: what it is, why governments auction it, what can go wrong\n\n\n11:00\nCase study: a mobile tax. Who pays, who gains, and what happens to adoption?\n\n\n12:00\nSit in on a team meeting\n\n\n12:30\nLunch\n\n\n13:00\nChat with a colleague who works on competition or regulation\n\n\n14:00\nOpen project time\n\n\n15:15\nReflection and wrap-up\n\n\n\n\n\nReflect. If you were a finance minister, would you tax mobile services more or less? What would you need to know first?\n\n\n\nDevelopment, inclusion and AI for economic research\n\n\n\n\nTime\nActivity\n\n\n\n\n10:00\nThe usage gap: who is not online and why. Skim the State of Mobile Internet Connectivity report\n\n\n11:00\nAgentic AI for economic research, with Harry. How Harry uses Claude at work: finding and checking sources, cleaning data, writing code, and why every result still needs a human check. Hands-on\n\n\n12:30\nLunch\n\n\n13:00\nAgentic AI session continues: try it on your open-project question\n\n\n14:00\nOpen project time\n\n\n15:15\nReflection and wrap-up\n\n\n\n\n\nReflect. What can an AI assistant do well for an economist, and what should it never be trusted to do alone?\n\n\n\nSharing what we learn\n\n\n\n\nTime\nActivity\n\n\n\n\n10:00\nPrepare for the afternoon: questions for the team, final touches to your open project if you have one\n\n\n11:00\nHarry’s presentation to GSMA Intelligence on how the team uses agentic AI in its research, including a telecoms news radar and a mobile tariffs tracker. You attend as part of the audience\n\n\n12:00\nQuestions and lunch with the team\n\n\n13:00\nOptional: share your open project with Harry and the team, in any form\n\n\n14:00\nLooking ahead: economics at university, and what to read next (see Economic resources)\n\n\n15:00\nFeedback on the week and goodbye\n\n\n\n\n\nReflect. What is one thing an economist at GSMA Intelligence does that you did not expect on Monday?"
+  },
+  {
+    "objectID": "glossary.html",
+    "href": "glossary.html",
+    "title": "Glossary",
+    "section": "",
+    "text": "Economists and the mobile industry both love jargon. Here are the terms that come up most often. If you hear one that is missing, ask, and add it to your own list.\n\n\n\n\n\n\n\n\nTerm\nWhat it means\n\n\n\n\nARPU\nAverage revenue per user. What an operator earns from each customer, usually per month. A common measure of how much people spend on mobile.\n\n\nAuction\nA way to sell something by inviting bids. Governments often auction spectrum to mobile operators.\n\n\nConnectivity\nBeing able to get online, and how good that access is: coverage, speed and price.\n\n\nCoverage gap\nPeople who live where there is no mobile broadband network at all.\n\n\nUsage gap\nPeople who live within reach of a mobile broadband network but do not use mobile internet. Much larger than the coverage gap.\n\n\nDigital divide\nThe difference in access to and use of digital technology between groups, for example rich and poor, urban and rural, or men and women.\n\n\nGDP\nGross domestic product. The total value of goods and services an economy produces in a year.\n\n\nGDP per person\nGDP divided by population. A rough measure of average living standards.\n\n\nProductivity\nOutput per unit of input, often per hour worked. The main driver of living standards over the long run.\n\n\nTotal factor productivity (TFP)\nThe part of growth not explained by more workers or more machines. Often read as a measure of technology and efficiency.\n\n\nNetwork effects\nWhen a product becomes more valuable as more people use it. A phone is worth more when everyone you know has one.\n\n\nOperator\nA company that runs a mobile network and sells mobile services, sometimes called a carrier.\n\n\nSpectrum\nThe range of radio frequencies used to send signals through the air. Mobile networks need it, and governments assign it.\n\n\n5G\nThe fifth generation of mobile network technology, offering faster speeds and quicker response than 4G.\n\n\nMobile money\nSending, storing and paying with money through a mobile phone, often without a bank account.\n\n\nSector-specific tax\nA tax that applies to one industry only, such as a tax on airtime or handsets.\n\n\nRegulator\nA public body that sets and enforces the rules for an industry, for example on competition, prices or spectrum.\n\n\nMarket structure\nHow many firms compete in a market and how much power each has.\n\n\nForecast\nA projection of what is likely to happen, built from data, models and judgement. Always a range, never a promise.\n\n\nEconometrics\nStatistical methods for measuring economic relationships from data, for example how much adoption rises when prices fall.\n\n\nCausality\nWhether one thing actually causes another, rather than just moving with it. The hardest question in applied economics.\n\n\nAgentic AI\nAI systems that can carry out multi-step tasks, such as searching, reading, coding and checking, rather than just answering one question."
+  }
+]

@@ -1,0 +1,21 @@
+
+## Firstname {.contributor}
+
+[Role, GSMA Intelligence.]{.role}
+
+### My favourite economist
+
+Who, and why, in a few sentences. Add one link to a short biography.
+
+### Books I recommend
+
+- **Title, Author.** One or two sentences on why.
+
+### Articles, podcasts and websites
+
+- **[Name](https://example.org/).** One sentence on why.
+
+### The best of being an economist working on digital technologies
+
+A short paragraph in your own words.
+
