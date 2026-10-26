@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "locale": "en_GB",
+  "platform": "4.6.0",
+  "metadata": {
+    "appmode": "quarto-static",
+    "primary_rmd": "index.qmd",
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "quarto": {
+    "version": "1.10.18",
+    "engines": ["markdown"]
+  },
+  "packages": null,
+  "files": {
+    "_quarto.yml": {
+      "checksum": "8e4f7c7ec37fcc10d25d22555338178f"
+    },
+    "_site/data.html": {
+      "checksum": "bc1713fd2c437f47d3ebb5a4488af999"
+    },
+    "_site/glossary.html": {
+      "checksum": "aeb73daa737e01325cbcb99e5679f6f4"
+    },
+    "_site/index.html": {
+      "checksum": "be93bafdcf9dd7cbb2833185cb8706a2"
+    },
+    "_site/resources.html": {
+      "checksum": "78b538236090d5a8f74abe7772742a60"
+    },
+    "_site/search.json": {
+      "checksum": "701d4e3dfbd2ab09d40f418d01028d75"
+    },
+    "_site/site_libs/bootstrap/bootstrap-445b8638c3d06994fee0907d791121c4.min.css": {
+      "checksum": "445b8638c3d06994fee0907d791121c4"
+    },
+    "_site/site_libs/bootstrap/bootstrap-icons.css": {
+      "checksum": "886da841d7421705f715f600c5ff11bb"
+    },
+    "_site/site_libs/bootstrap/bootstrap-icons.woff": {
+      "checksum": "efe54401ef52214fd3b701e23ff88c5f"
+    },
+    "_site/site_libs/bootstrap/bootstrap.min.js": {
+      "checksum": "e2b09c06f0e714b6144a6788a28e3950"
+    },
+    "_site/site_libs/clipboard/clipboard.min.js": {
+      "checksum": "15f52a1ee547f2bdd46e56747332ca2d"
+    },
+    "_site/site_libs/quarto-diagram/mermaid-init.js": {
+      "checksum": "35cf34474c6b3cb3e659633a985a71cd"
+    },
+    "_site/site_libs/quarto-diagram/mermaid.css": {
+      "checksum": "0aeecd8a816e25e43a41943c6146c2b7"
+    },
+    "_site/site_libs/quarto-diagram/mermaid.min.js": {
+      "checksum": "b083b6bcb3a68ca7b61312fef800366f"
+    },
+    "_site/site_libs/quarto-html/anchor.min.js": {
+      "checksum": "91bcf6cd1fd88fec3f109811e5fc3546"
+    },
+    "_site/site_libs/quarto-html/popper.min.js": {
+      "checksum": "3a4a291ccf3f1ea0f82b641542fd3827"
+    },
+    "_site/site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css": {
+      "checksum": "64a204ab8560d761af7679ceaba22944"
+    },
+    "_site/site_libs/quarto-html/quarto.js": {
+      "checksum": "6f4245742deb3cc92337dbe2701ccfe1"
+    },
+    "_site/site_libs/quarto-html/tabsets/tabsets.js": {
+      "checksum": "e8d6a8862b33ccc461f8fd532e05b365"
+    },
+    "_site/site_libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "_site/site_libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "_site/site_libs/quarto-html/zenscroll-min.js": {
+      "checksum": "717c95813ddfc3d41e98c26642fc1372"
+    },
+    "_site/site_libs/quarto-nav/headroom.min.js": {
+      "checksum": "ace0360e576db9b6e7df48ac68ddbbf4"
+    },
+    "_site/site_libs/quarto-nav/quarto-nav.js": {
+      "checksum": "7a5e071ef61780ababf038b90a7ce7cd"
+    },
+    "_site/site_libs/quarto-search/autocomplete.umd.js": {
+      "checksum": "b514204f2ef1ca7a8e2ad4579d263504"
+    },
+    "_site/site_libs/quarto-search/fuse.min.js": {
+      "checksum": "de7d60e4a6881074275feca14b84a49d"
+    },
+    "_site/site_libs/quarto-search/quarto-search.js": {
+      "checksum": "9c992af743ca88c8c5f650cf312c4e61"
+    },
+    "_site/styles.css": {
+      "checksum": "b1bab38b5948bcfd478ac35fa75af53e"
+    },
+    "_site/week.html": {
+      "checksum": "8e10ed08fd5303ba6e95c654bc4b5a34"
+    },
+    "contributors/_harry.qmd": {
+      "checksum": "b09963672b55d7656319031d8b8e9f2d"
+    },
+    "contributors/_template.qmd": {
+      "checksum": "82f0b9f7e8b71158bb6c7032eca57b98"
+    },
+    "data.qmd": {
+      "checksum": "09c11ff04d3fb7d6d7295ec8900160f8"
+    },
+    "glossary.qmd": {
+      "checksum": "fed933e4c5011fe9b0c6b9cdd8d0c530"
+    },
+    "index.qmd": {
+      "checksum": "503855c9722c1cdc287be3e3446d1b7a"
+    },
+    "resources.qmd": {
+      "checksum": "25ff436cc1db47c280f046305fa16430"
+    },
+    "styles.css": {
+      "checksum": "b1bab38b5948bcfd478ac35fa75af53e"
+    },
+    "week.qmd": {
+      "checksum": "b639d980ad494ee0d7cfc913bb776718"
+    }
+  },
+  "users": null
+}

@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - week.qmd
+    - resources.qmd
+    - glossary.qmd
+    - data.qmd
+
+website:
+  title: "Economics at GSMA Intelligence"
+  description: "A one-week student placement on the mobile economy."
+  navbar:
+    left:
+      - text: "Economics at GSMA"
+        href: index.qmd
+      - text: "The week"
+        href: week.qmd
+      - text: "Economic resources"
+        href: resources.qmd
+      - text: "Toolkit"
+        menu:
+          - text: "Glossary"
+            href: glossary.qmd
+          - text: "Public data to explore"
+            href: data.qmd
+  page-footer:
+    left: "A one-week student placement at GSMA Intelligence"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    link-external-newwindow: true
+    page-layout: article

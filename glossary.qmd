@@ -1,0 +1,34 @@
+---
+title: "Glossary"
+subtitle: "Words you will hear this week, in plain English"
+toc: false
+---
+
+::: {.page-intro}
+Economists and the mobile industry both love jargon. Here are the terms that come up most often. If you hear one that is missing, ask, and add it to your own list.
+:::
+
+| Term | What it means |
+|---|---|
+| **ARPU** | Average revenue per user. What an operator earns from each customer, usually per month. A common measure of how much people spend on mobile. |
+| **Auction** | A way to sell something by inviting bids. Governments often auction spectrum to mobile operators. |
+| **Connectivity** | Being able to get online, and how good that access is: coverage, speed and price. |
+| **Coverage gap** | People who live where there is no mobile broadband network at all. |
+| **Usage gap** | People who live within reach of a mobile broadband network but do not use mobile internet. Much larger than the coverage gap. |
+| **Digital divide** | The difference in access to and use of digital technology between groups, for example rich and poor, urban and rural, or men and women. |
+| **GDP** | Gross domestic product. The total value of goods and services an economy produces in a year. |
+| **GDP per person** | GDP divided by population. A rough measure of average living standards. |
+| **Productivity** | Output per unit of input, often per hour worked. The main driver of living standards over the long run. |
+| **Total factor productivity (TFP)** | The part of growth not explained by more workers or more machines. Often read as a measure of technology and efficiency. |
+| **Network effects** | When a product becomes more valuable as more people use it. A phone is worth more when everyone you know has one. |
+| **Operator** | A company that runs a mobile network and sells mobile services, sometimes called a carrier. |
+| **Spectrum** | The range of radio frequencies used to send signals through the air. Mobile networks need it, and governments assign it. |
+| **5G** | The fifth generation of mobile network technology, offering faster speeds and quicker response than 4G. |
+| **Mobile money** | Sending, storing and paying with money through a mobile phone, often without a bank account. |
+| **Sector-specific tax** | A tax that applies to one industry only, such as a tax on airtime or handsets. |
+| **Regulator** | A public body that sets and enforces the rules for an industry, for example on competition, prices or spectrum. |
+| **Market structure** | How many firms compete in a market and how much power each has. |
+| **Forecast** | A projection of what is likely to happen, built from data, models and judgement. Always a range, never a promise. |
+| **Econometrics** | Statistical methods for measuring economic relationships from data, for example how much adoption rises when prices fall. |
+| **Causality** | Whether one thing actually causes another, rather than just moving with it. The hardest question in applied economics. |
+| **Agentic AI** | AI systems that can carry out multi-step tasks, such as searching, reading, coding and checking, rather than just answering one question. |

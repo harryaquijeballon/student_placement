@@ -1,0 +1,40 @@
+---
+title: "Public data to explore"
+subtitle: "Free sources economists use, with a question to try on each"
+toc: true
+---
+
+::: {.page-intro}
+Economics starts with a question and a dataset. All of these are free and public. Pick one, try the question, and see where it leads.
+:::
+
+## The economy
+
+- **[World Bank: World Development Indicators](https://databank.worldbank.org/source/world-development-indicators).** Hundreds of indicators for every country, from GDP to mobile subscriptions.
+  *Try this:* chart GDP per person against mobile cellular subscriptions per 100 people for three countries since 2000.
+- **[IMF DataMapper](https://www.imf.org/external/datamapper).** Growth, inflation and debt for every country, with forecasts.
+  *Try this:* which countries does the IMF expect to grow fastest over the next five years?
+- **[Penn World Table](https://www.rug.nl/ggdc/productivity/pwt/).** The standard dataset for comparing productivity and living standards across countries.
+  *Try this:* compare output per worker in the UK and South Korea in 1960 and today.
+- **[Office for National Statistics](https://www.ons.gov.uk/).** Official statistics for the UK.
+  *Try this:* how has UK labour productivity changed since 2008?
+
+## Connectivity
+
+- **[ITU DataHub](https://datahub.itu.int/).** Official statistics on internet use, mobile coverage and prices from the United Nations agency for digital technologies.
+  *Try this:* what share of people use the internet in the richest and the poorest countries?
+- **[GSMA Mobile Economy reports](https://www.gsmaintelligence.com/series/the-mobile-economy).** Our own public reports on the mobile industry, worldwide and by region.
+  *Try this:* pick a region and find the three facts you think matter most.
+- **[GSMA State of Mobile Internet Connectivity](https://www.gsma.com/somic/).** The coverage gap and usage gap, and what stands in the way of getting online.
+  *Try this:* what are the main reasons people give for not using mobile internet?
+
+## Charts with the story explained
+
+- **[Our World in Data: economic growth](https://ourworldindata.org/economic-growth).** Long-run growth, explained with charts.
+  *Try this:* find a country that was poorer than the UK in 1950 and richer today.
+- **[Our World in Data: internet](https://ourworldindata.org/internet).** How quickly the world got online.
+  *Try this:* how many years did it take for half the world to use the internet?
+
+## A tip on using data well
+
+Before you trust a number, ask three questions. Where does it come from? What exactly does it measure? What would it look like if it were wrong? Tim Harford's *How to Make the World Add Up* has ten rules like these.

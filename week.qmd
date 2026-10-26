@@ -1,0 +1,134 @@
+---
+title: "The week"
+subtitle: "Five days, about five hours a day, in the office with Harry and the team"
+toc: false
+---
+
+::: {.page-intro}
+Each day has a theme, a rough timetable and a question to reflect on. The timetable is a guide, not a contract. If something catches your interest, stay with it. Days run from about 10:00 to 15:30, with lunch in the middle.
+:::
+
+## Your open project
+
+Through the week you can, if you like, follow one question of your own. There is no required format and no deadline. It could be a short note, a chart, a few slides, or just a conversation. If you want to share it on Friday, there is a slot for that. If you would rather not, that is completely fine. The point is to learn as much as you wish.
+
+Some questions to start from, or to ignore:
+
+- How has mobile connectivity changed the economy of a country you know or would like to know?
+- Why is mobile data so much cheaper in some countries than in others?
+- Who still does not use mobile internet, and what would change that?
+
+## Day by day
+
+::: {.panel-tabset}
+
+### Day 1
+
+**The mobile economy**
+
+::: {.schedule}
+
+| Time | Activity |
+|---|---|
+| 10:00 | Welcome, office tour and a coffee with Harry |
+| 10:45 | Read the home page of this site; questions about GSMA and GSMA Intelligence |
+| 11:30 | Guided tour of a public *Mobile Economy* report: how it is built, what each chart says |
+| 12:30 | Lunch |
+| 13:00 | Meet some of the team. Ask each person what a normal day looks like for them |
+| 14:00 | Start your own glossary: ten terms from today you did not know (the [Glossary](glossary.qmd) can help) |
+| 14:45 | Choose an open-project question, if you want one |
+| 15:15 | Reflection and wrap-up |
+
+:::
+
+::: {.reflect}
+**Reflect.** What surprised you most about how big, or how small, the mobile industry is?
+:::
+
+### Day 2
+
+**Growth and productivity**
+
+::: {.schedule}
+
+| Time | Activity |
+|---|---|
+| 10:00 | Read chapter 6 of [*Measuring the Economy*](https://measuringtheeconomy.uk/book/text/06.html) on economic growth |
+| 11:00 | Discussion with Harry: productivity, innovation and technology. Where does mobile fit? |
+| 11:45 | Hands-on: download GDP per person and mobile subscriptions for three countries from the [World Bank](https://databank.worldbank.org/source/world-development-indicators) and chart them |
+| 12:30 | Lunch |
+| 13:00 | Read Paul Krugman's ["How I Work"](https://www3.nccu.edu.tw/~jthuang/krugman.html) |
+| 14:00 | Open project time |
+| 15:15 | Reflection and wrap-up |
+
+:::
+
+::: {.reflect}
+**Reflect.** Does a rise in mobile use cause growth, or does growth cause a rise in mobile use? How could you tell the difference?
+:::
+
+### Day 3
+
+**Policy levers: spectrum, taxation and competition**
+
+::: {.schedule}
+
+| Time | Activity |
+|---|---|
+| 10:00 | Spectrum in plain English: what it is, why governments auction it, what can go wrong |
+| 11:00 | Case study: a mobile tax. Who pays, who gains, and what happens to adoption? |
+| 12:00 | Sit in on a team meeting |
+| 12:30 | Lunch |
+| 13:00 | Chat with a colleague who works on competition or regulation |
+| 14:00 | Open project time |
+| 15:15 | Reflection and wrap-up |
+
+:::
+
+::: {.reflect}
+**Reflect.** If you were a finance minister, would you tax mobile services more or less? What would you need to know first?
+:::
+
+### Day 4
+
+**Development, inclusion and AI for economic research**
+
+::: {.schedule}
+
+| Time | Activity |
+|---|---|
+| 10:00 | The usage gap: who is not online and why. Skim the [State of Mobile Internet Connectivity](https://www.gsma.com/somic/) report |
+| 11:00 | **Agentic AI for economic research, with Harry.** How Harry uses Claude at work: finding and checking sources, cleaning data, writing code, and why every result still needs a human check. Hands-on |
+| 12:30 | Lunch |
+| 13:00 | Agentic AI session continues: try it on your open-project question |
+| 14:00 | Open project time |
+| 15:15 | Reflection and wrap-up |
+
+:::
+
+::: {.reflect}
+**Reflect.** What can an AI assistant do well for an economist, and what should it never be trusted to do alone?
+:::
+
+### Day 5
+
+**Sharing what we learn**
+
+::: {.schedule}
+
+| Time | Activity |
+|---|---|
+| 10:00 | Prepare for the afternoon: questions for the team, final touches to your open project if you have one |
+| 11:00 | **Harry's presentation to GSMA Intelligence** on how the team uses agentic AI in its research, including a telecoms news radar and a mobile tariffs tracker. You attend as part of the audience |
+| 12:00 | Questions and lunch with the team |
+| 13:00 | Optional: share your open project with Harry and the team, in any form |
+| 14:00 | Looking ahead: economics at university, and what to read next (see [Economic resources](resources.qmd)) |
+| 15:00 | Feedback on the week and goodbye |
+
+:::
+
+::: {.reflect}
+**Reflect.** What is one thing an economist at GSMA Intelligence does that you did not expect on Monday?
+:::
+
+:::
